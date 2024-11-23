@@ -3,7 +3,7 @@ https://www.sigbus.info/compilerbook を参考にして作ったCコンパイラ
 
 ## Environment
 
-WSL2
+WSL2  
 Set up
 ```
 $ sudo apt update
