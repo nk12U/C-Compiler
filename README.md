@@ -20,7 +20,7 @@ $ make
 
 ### test
 
-''./test.sh''
+`./test.sh`
 
 ## Online Compiler
 
