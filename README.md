@@ -3,7 +3,7 @@ https://www.sigbus.info/compilerbook を参考にして作ったCで書かれた
 
 ## Environment
 
-Linux/[WSL2](https://learn.microsoft.com/ja-jp/windows/wsl/install)  
+Linux / [WSL2](https://learn.microsoft.com/ja-jp/windows/wsl/install)  
 ```
 $ sudo apt update
 $ sudo apt install -y gcc make git binutils libc6-dev
