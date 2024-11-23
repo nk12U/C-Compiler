@@ -129,13 +129,14 @@ int main(int argc, char **argv){
           printf("  add rax, %d\n", expect_number());
           continue;
         }
-    
+
         expect('-');
         printf("  sub rax, %d\n", expect_number());
     }
 
     printf("  ret\n");
 
+    // スタックが実行可能でないことをリンカに伝えるためのもの(バッファオーバーフロー対策)
     printf(".section .note.GNU-stack,\"\",@progbits\n");
     return 0;
 }
