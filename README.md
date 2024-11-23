@@ -12,6 +12,7 @@ $ sudo apt install -y gcc make git binutils libc6-dev
 ## How to use
 
 ### build
+
 ```
 $ git clone https://github.com/nk12U/C-Compiler  
 $ cd 9cc  
@@ -20,7 +21,9 @@ $ make
 
 ### test
 
-`$ ./test.sh`
+```
+$ ./test.sh
+```
 
 ## Online Compiler
 
