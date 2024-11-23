@@ -1,5 +1,6 @@
 # C-Compiler
-https://www.sigbus.info/compilerbook を参考にして作ったCコンパイラ
+https://www.sigbus.info/compilerbook を参考にして作ったCコンパイラ  
+"Cで書かれたCコンパイラ"
 
 ## Environment
 
