@@ -1,7 +1,5 @@
 # C-Compiler
-https://www.sigbus.info/compilerbook を参考にして作ったCコンパイラ  
-**"Cで書かれたCコンパイラ"**  
-**"コンパイラをコンパイルするコンパイラ"**
+https://www.sigbus.info/compilerbook を参考にして作ったCで書かれたCコンパイラ  
 
 ## Environment
 
@@ -13,11 +11,16 @@ $ sudo apt install -y gcc make git binutils libc6-dev
 
 ## How to use
 
+### build
 ```
 $ git clone https://github.com/nk12U/C-Compiler  
 $ cd 9cc  
-$ make  
+$ make
 ```
+
+### test
+
+'./test.sh'
 
 ## Online Compiler
 
