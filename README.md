@@ -4,7 +4,6 @@ https://www.sigbus.info/compilerbook を参考にして作ったCコンパイラ
 ## Environment
 
 WSL2  
-Set up
 ```
 $ sudo apt update
 $ sudo apt install -y gcc make git binutils libc6-dev
