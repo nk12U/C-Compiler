@@ -14,7 +14,7 @@ $ sudo apt install -y gcc make git binutils libc6-dev
 ### build
 
 ```
-$ git clone https://github.com/nk12U/C-Compiler  
+$ git clone https://github.com/nk12U/C-Compiler.git  
 $ cd 9cc  
 $ make
 ```
